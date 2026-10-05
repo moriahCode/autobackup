@@ -23,3 +23,6 @@ token.json
 # Système
 .DS_Store
 Thumbs.db
+
+# Données personnelles du scanner
+data/
