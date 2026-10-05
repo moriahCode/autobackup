@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Configuration personnelle
+config/config.json
+
+# Secrets
+.env
+*.key
+*.token
+credentials.json
+token.json
+
+# Base de données / historique local
+*.db
+
+# Logs
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
